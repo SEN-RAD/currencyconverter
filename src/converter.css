@@ -1,0 +1,18 @@
+input, select {
+	border-radius: 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+input {
+	width: 200px;
+    height: 30px;
+}
+
+button {
+	border-radius: 2px;
+	width: 100px;
+    height: 30px;
+    padding: 3px;
+}
+
